@@ -1,0 +1,104 @@
+.top-cloud{
+    position: absolute;
+    right: 400px; /*from right margin*/
+    top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-container{
+    background-color:#45b29a;
+    padding-top: 100px;
+}
+h1{
+    font-family: 'Courier New' ,cursive;
+    color: black;
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+}
+.p{
+    color: rgb(15, 51, 211);
+    font-size: large;
+    width: 30%;
+    text-align: justify;
+    margin: auto;
+    font-style: italic;
+}
+.g{
+    color: black;
+    font-size: large;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+body{
+    text-align: center;
+    margin: 0;
+}
+hr{
+    border: dotted brown 8px;
+    width: 5%;
+    margin: 40px auto;
+    border-bottom: none;
+    background-color: whitesmoke;
+}
+.middle-container{
+    background-color: whitesmoke;
+}
+.middle{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.table{
+    margin: auto;
+}
+.middle-second-container{
+    background-color: whitesmoke;
+}
+h3{
+    padding-left: 200px;
+    font-size: large;
+    color: blue;
+    text-align: justify;
+    text-decoration: underline;
+}
+.hi{
+    color: rgba(17, 70, 102, 0.922);
+    font-size: medium;
+    text-align: justify;
+    padding-left: 200px;
+    font-style: italic;
+}
+.aryan{
+    text-decoration: underline;
+    color:rgba(17, 70, 102, 0.922);
+    font-style: italic;
+}
+.contact{
+    background: #11cdd4;
+      background-image: -webkit-linear-gradient(top, #df490e,#df490e);
+      background-image: -moz-linear-gradient(top, #df490e, #df490e);
+      background-image: -ms-linear-gradient(top, #df490e, #df490e);
+      background-image: -o-linear-gradient(top, #df490e, #df490e);
+      background-image: linear-gradient(to bottom, #df490e, #df490e);
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+}
+.bottom-container{
+    background-color: darkblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.last{
+    color: cyan;
+}
+.copyright{
+    color: cyan;
+}
